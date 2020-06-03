@@ -10,4 +10,4 @@
 * [RapidAPI](https://rapidapi.com/developer/dashboard) to use Weather API
 * [Feather Icons](https://feathericons.com/)
 * Pure HTML, CSS and JS
-* [Now CLI](https://zeit.co/download)
+* [Vercel CLI](https://vercel.com/download)
